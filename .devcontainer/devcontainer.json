@@ -28,6 +28,17 @@
 			"installDirectlyFromGitHubRelease": true,
 			"version": "latest"
 		}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-toolsai.jupyter",
+				"bierner.github-markdown-preview",
+				"GitHub.copilot",
+				"github.vscode-github-actions",
+				"GitHub.remotehub"
+			]
+		}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
